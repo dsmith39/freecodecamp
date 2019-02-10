@@ -1,0 +1,58 @@
+h1 {
+  font-size: 4.06em;
+}
+h2{
+  font-size: 1.875em;
+}
+p{
+  font-size: 1.25em;
+}
+
+#main{
+  width: 65%;
+  margin: auto;
+  margin-top:1.5em;
+  margin-bottom:1.5em;
+}
+
+#title{
+  text-align: center;
+}
+#title p{
+  padding-bottom:2%;
+  font-size:1.6em;
+}
+#img-div{
+  padding: 1em;
+}
+#img-div img{
+  display: block;
+  max-width:80%;
+  height:auto;
+  margin:auto;
+}
+#img-caption{
+  text-align: center;
+  padding-top:1em;
+  padding-bottom:2em;
+  font-size: 1.5em;
+  font-style: italic;
+}
+#tribute-info{
+
+  padding:.5em;
+}
+#biography{
+  margin-bottom: 1.5em;
+}
+#biography h2, #sermon h2{
+  text-align:center;
+  margin-bottom:.5em;
+}
+#biography p, #sermon p{
+  text-align: justify;
+  line-height: 1.5;
+}
+#sermon{
+  margin-top:1.5em;
+}
